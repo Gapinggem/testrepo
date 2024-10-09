@@ -2,6 +2,7 @@ main()
 {
 add();
   printf("hi")
+    printf("hello")
 sub();
 mul();
 div();
