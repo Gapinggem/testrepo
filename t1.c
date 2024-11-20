@@ -7,3 +7,4 @@ sub();
 mul();
 div();
 }
+printf("hi")
